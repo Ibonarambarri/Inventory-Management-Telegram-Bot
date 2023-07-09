@@ -68,5 +68,3 @@ Please read `CONTRIBUTING.md` for details on our code of conduct, and the proces
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
-This `README.md` file provides a general understanding of the project. However, more detailed documentation with function descriptions, argument details, and return types might be beneficial for the users and developers.
